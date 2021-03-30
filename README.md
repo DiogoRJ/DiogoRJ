@@ -9,7 +9,7 @@ I'm a {backend and frontend} developer at EDS.
 ## About me
 
 ```javascript
-var me = {
+let me = {
   name: 'Diogo Gomes Marinho',
   age: 27,
   languages: ['Java', 'TypeScript'],
