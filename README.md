@@ -11,9 +11,22 @@ I'm a {backend and frontend} developer at EDS.
 ```javascript
 let me = {
   name: 'Diogo Gomes Marinho',
-  age: 27,
+  age: 28,
   languages: ['Java', 'TypeScript'],
   skills: ['Spring Boot', 'Microservices Development']
 };
 ```
-Experienced Junior Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Business Intelligence Projects, Extract, Transform, Load (ETL), Databases, Data Science, and Data Warehousing. Strong engineering professional with a Bacharelado focused in Sistemas de Informação from Universidade Unigranrio. 
+Sou desenvolvedor backend com 3 anos de experiência com Java (ecossistema Spring) e Node.js.
+Trabalhando com grandes sistemas, direcionados à modernizar, inovar e facilitar a vida dos usuários através de sistemas pensados com excelente experiência do usuário.
+
+Algumas tecnologias que possuo conhecimento:
+
+- Git
+- Java (Spring boot)
+- Node.js (REST APIs)
+- JavaScript / Typescript
+- SQL / MongoDB
+- HTML semântico
+- CSS / SCSS responsivo
+- DevOps (definição de pipeline e execuções de deploys)
+- Docker
