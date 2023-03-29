@@ -1,6 +1,6 @@
 # Hi, I'm Diogo!
 
-I'm a {backend and frontend} developer at EDS.
+I'm a {backend and frontend} developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@DiogoG60-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DiogoG60)](https://twitter.com/DiogoG60) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-gomes-marinho/)](https://www.linkedin.com/in/diogo-gomes-marinho/) 
@@ -11,22 +11,25 @@ I'm a {backend and frontend} developer at EDS.
 ```javascript
 let me = {
   name: 'Diogo Gomes Marinho',
-  age: 28,
-  languages: ['Java', 'TypeScript'],
-  skills: ['Spring Boot', 'Microservices Development']
+  age: 29,
+  languages: ['Java', 'NodeJS', '.Net'],
+  skills: ['Microservices Development', 'Spring Boot', 'Kafka']
 };
 ```
-Sou desenvolvedor backend com 3 anos de experiência com Java (ecossistema Spring) e Node.js.
+Sou desenvolvedor backend com 4 anos de experiência com Java (ecossistema Spring) e Node.js.
 Trabalhando com grandes sistemas, direcionados à modernizar, inovar e facilitar a vida dos usuários através de sistemas pensados com excelente experiência do usuário.
 
 Algumas tecnologias que possuo conhecimento:
 
-- Git
 - Java (Spring boot)
 - Node.js (REST APIs)
 - JavaScript / Typescript
+- C#
+- .Net
 - SQL / MongoDB
 - HTML semântico
 - CSS / SCSS responsivo
 - DevOps (definição de pipeline e execuções de deploys)
 - Docker
+- Kafka
+- Git
