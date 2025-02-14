@@ -10,8 +10,8 @@ I'm a {backend and frontend} developer.
 ```javascript
 let me = {
   name: 'Diogo Gomes Marinho',
-  age: 30,
-  languages: ['Java', 'NodeJS'],
+  age: 31,
+  languages: ['Java', 'NodeJS', 'NestJS'],
   skills: ['Microservices Development', 'Spring Boot', 'Kafka', 'RabbitMQ', 'SQL', 'NoSQL']
 };
 ```
@@ -22,6 +22,7 @@ Algumas tecnologias que possuo conhecimento:
 
 - Java (Spring boot)
 - Node.js (REST APIs)
+- NestJS
 - JavaScript / Typescript
 - C#
 - .Net
