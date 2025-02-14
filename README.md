@@ -15,7 +15,7 @@ let me = {
   skills: ['Microservices Development', 'Spring Boot', 'Kafka', 'RabbitMQ', 'SQL', 'NoSQL']
 };
 ```
-Sou desenvolvedor backend com 4 anos de experiência com Java (ecossistema Spring) e Node.js.
+Sou desenvolvedor backend com 5 anos de experiência com Java (ecossistema Spring) e Node.js.
 Trabalhando com grandes sistemas, direcionados à modernizar, inovar e facilitar a vida dos usuários através de sistemas pensados com excelente experiência do usuário.
 
 Algumas tecnologias que possuo conhecimento:
