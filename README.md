@@ -10,7 +10,7 @@ I'm a {backend and frontend} developer.
 ```javascript
 let me = {
   name: 'Diogo Gomes Marinho',
-  age: 31,
+  age: 32,
   languages: ['Java', 'NodeJS', 'NestJS'],
   skills: ['Microservices Development', 'Spring Boot', 'Kafka', 'RabbitMQ', 'SQL', 'NoSQL']
 };
